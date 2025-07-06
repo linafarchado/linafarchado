@@ -58,12 +58,6 @@ inspired by Goodfellow et al. (2018).
   → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
   [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)  
 
-- **📈 Stock Market Data Pipeline and Dashboard**  
-  Group Project | SQL, TimescaleDB, Docker, Dash  
-  Designed and implemented a data pipeline to clean, process, and batch-load large-scale stock market data into a TimescaleDB database.  
-  → *Built an interactive Dash dashboard to visualize market trends, compare companies, and analyze data in various formats.*  
-  [🔗 GitHub Repo](https://github.com/linafarchado/BigData)
-
 - **🎞️ Film Recommender System**  
   Solo Project | Scikit-learn, Pandas, SQL, IMDb  
   Built a hybrid movie recommendation system by integrating and cleaning rating, metadata, and IMDb datasets.  
