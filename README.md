@@ -11,7 +11,6 @@
 **Languages:** Python, JavaScript, TypeScript, HTML/CSS, SQL, PostgreSQL, NoSQL   
 **Frameworks:** PyTorch, TensorFlow, Flask, React, ONNX.js  
 **Tools & DevOps:** Docker, GitHub Actions, CI/CD, MLOps  
-**Other:** Hugging Face, CUDA, Scikit-learn, OpenCV  
 
 ---
 
@@ -52,7 +51,8 @@
 - **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
   Competition | PyTorch, CNN, Transformers, NLP  
   Built two deep learning models (1D CNN & custom mini-transformer) to classify AI-generated vs human-written text.  
-  → *Won IA Data Hack 2024; applied semantic feature extraction and multi-head attention.*
+  → *Won IA Data Hack 2024; applied semantic feature extraction and multi-head attention.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/IAVSAI)
 
 - **📈 Stock Market Data Pipeline and Dashboard**  
   Group Project | SQL, TimescaleDB, Docker, Dash  
