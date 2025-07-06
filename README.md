@@ -29,6 +29,30 @@
 ---
 
 ## 🚀 Projects
+  
+- **🖼️ AI Image Generation Web Service and Discord Bot**  
+  Group Project | Flask, Hugging Face, Docker, CUDA, MLOps  
+  Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
+  → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
+  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)
+
+- **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
+  Competition | PyTorch, CNN, Transformers, NLP  
+  Built two deep learning models (1D CNN & custom mini-transformer) to classify AI-generated vs human-written text.  
+  → *Won IA Data Hack 2024; applied semantic feature extraction and multi-head attention.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/IAVSAI)
+
+- **🛡️ SafeText – Toxicity & PII Detection Discord Bot**  
+  Group Project | Python, NLP, scikit-learn, BERT, Discord API  
+  Built a Discord bot for real-time detection of toxic behavior and sensitive data leaks using custom-trained NLP models.  
+  → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)  
+
+- **📈 Stock Market Data Pipeline and Dashboard**  
+  Group Project | SQL, TimescaleDB, Docker, Dash  
+  Designed and implemented a data pipeline to clean, process, and batch-load large-scale stock market data into a TimescaleDB database.  
+  → *Built an interactive Dash dashboard to visualize market trends, compare companies, and analyze data in various formats.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/BigData)
 
 - **🧠 Brain MRI Generation**  
   Research Project | PyTorch, Autoencoders, Segmentation  
@@ -42,31 +66,6 @@
   Built a hybrid movie recommendation system by integrating and cleaning rating, metadata, and IMDb datasets.  
   → *Combined SVD-based collaborative filtering with content-based similarity for accurate and scalable recommendations.*  
   [🔗 GitHub Repo](https://github.com/linafarchado/Recommender)
-  
-- **🖼️ AI Image Generation Web Service and Discord Bot**  
-  Group Project | Flask, Hugging Face, Docker, CUDA, MLOps  
-  Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
-  → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
-  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)
-
-- **🛡️ SafeText – Toxicity & PII Detection Discord Bot**  
-  Group Project | Python, NLP, scikit-learn, BERT, Discord API  
-  Built a Discord bot for real-time detection of toxic behavior and sensitive data leaks using custom-trained NLP models.  
-  → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
-  [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)  
-
-
-- **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
-  Competition | PyTorch, CNN, Transformers, NLP  
-  Built two deep learning models (1D CNN & custom mini-transformer) to classify AI-generated vs human-written text.  
-  → *Won IA Data Hack 2024; applied semantic feature extraction and multi-head attention.*  
-  [🔗 GitHub Repo](https://github.com/linafarchado/IAVSAI)
-
-- **📈 Stock Market Data Pipeline and Dashboard**  
-  Group Project | SQL, TimescaleDB, Docker, Dash  
-  Designed and implemented a data pipeline to clean, process, and batch-load large-scale stock market data into a TimescaleDB database.  
-  → *Built an interactive Dash dashboard to visualize market trends, compare companies, and analyze data in various formats.*  
-  [🔗 GitHub Repo](https://github.com/linafarchado/BigData)
 
 ---
 
