@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, SQL  
+**Languages:** Python, JavaScript, TypeScript, SQL, NoSQL
 **Frameworks:** PyTorch, TensorFlow, Flask, React, ONNX.js  
 **Tools & DevOps:** Docker, GitHub Actions, CI/CD, MLOps  
 **Other:** Hugging Face, CUDA, WebGPU, Scikit-learn, Pandas, NumPy  
