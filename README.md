@@ -70,7 +70,6 @@ inspired by Goodfellow et al. (2018).
 
 🔗 [LinkedIn](https://www.linkedin.com/in/linafarchado/)  
 📫 Contact: l.farchado@gmail.com  
-🌍 Portfolio (coming soon)
 
 ---
 
