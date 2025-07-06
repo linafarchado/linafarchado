@@ -66,15 +66,6 @@ inspired by Goodfellow et al. (2018).
 
 ---
 
-## 💡 Interests
-
-- Generative AI (LLMs, VLMs, Autoencoders, Diffusion)
-- MLOps, model deployment, edge inference
-- Tech for social good and healthcare innovation
-- I also enjoy reading and painting in my free time
-
----
-
 ## 📬 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/linafarchado/)  
