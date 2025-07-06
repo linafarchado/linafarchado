@@ -41,12 +41,12 @@
   Built a hybrid movie recommendation system by integrating and cleaning rating, metadata, and IMDb datasets.  
   → *Combined SVD-based collaborative filtering with content-based similarity for accurate and scalable recommendations.*  
   [🔗 GitHub Repo](https://github.com/linafarchado/Recommender)
-
-- **🛡️ Safetext - AI Image Generation Web Service and Discord Bot**  
-  Group Project | Hugging Face, Flask, Docker, CUDA, MLOps  
-  Built a Discord bot for real-time detection of toxic behavior and sensitive data leaks using custom-trained NLP models.  
-  → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
-  [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)
+  
+- **🖼️ AI Image Generation Web Service and Discord Bot**  
+  Group Project | Flask, Hugging Face, Docker, CUDA  
+  Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
+  → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
+  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)  
 
 - **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
   Competition | PyTorch, CNN, Transformers, NLP  
