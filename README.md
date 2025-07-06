@@ -43,7 +43,7 @@
   [🔗 GitHub Repo](https://github.com/linafarchado/Recommender)
   
 - **🖼️ AI Image Generation Web Service and Discord Bot**  
-  Group Project | Flask, Hugging Face, Docker, CUDA  
+  Group Project | Flask, Hugging Face, Docker, CUDA, MLOps  
   Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
   → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
   [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)
