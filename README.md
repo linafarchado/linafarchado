@@ -22,8 +22,8 @@
   - Benchmarked inference frameworks for clinical deployment under hardware constraints.
 
 
-- **🧠 Brain MRI Generation**  
-  Research Project | PyTorch, Autoencoders, Segmentation
+- **🧠 Brain MRI Generation - Epita LRE (Feb 2024 - Jan 2025)**  
+  Research Project | PyTorch, Generative Models, Segmentation
   - Explored interpolation-based image generation using adversarially regularized autoencoders, inspired by Goodfellow et al.
 (2018)
   - Designed a pipeline to generate intermediate brain MRI slices through interpolation between multiple input images,
