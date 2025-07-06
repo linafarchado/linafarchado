@@ -43,7 +43,7 @@
   [🔗 GitHub Repo](https://github.com/linafarchado/Recommender)
 
 - **🛡️ Safetext - AI Image Generation Web Service and Discord Bot**  
-  Group Project | Python, NLP, scikit-learn, BERT, Discord API  
+  Group Project | Hugging Face, Flask, Docker, CUDA, MLOps  
   Built a Discord bot for real-time detection of toxic behavior and sensitive data leaks using custom-trained NLP models.  
   → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
   [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)
