@@ -21,6 +21,17 @@
   - Integrated ONNX.js & TensorFlow.js models into browser environments using WebGPU.  
   - Benchmarked inference frameworks for clinical deployment under hardware constraints.
 
+
+- **🧠 Brain MRI Generation**  
+  Research Project | PyTorch, Autoencoders, Segmentation
+  - Explored interpolation-based image generation using adversarially regularized autoencoders, inspired by Goodfellow et al.
+(2018)
+  - Designed a pipeline to generate intermediate brain MRI slices through interpolation between multiple input images,
+improving anatomical consistency.
+
+  → *Improved anatomical consistency with segmentation benchmarks (+0.10% gray, +0.24% white matter accuracy).*  
+[🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
+
 - **Full-Stack Engineering Intern – CastorDoc (Sep 2023 – Jan 2024)**  
   Contributed to product features using TypeScript, React, Node.js, and REST APIs.  
   - Led development of features like Chrome extension enhancements & external links API.  
@@ -29,18 +40,18 @@
 ---
 
 ## 🚀 Projects
-  
-- **🖼️ AI Image Generation Web Service and Discord Bot**  
-  Group Project | Flask, Hugging Face, Docker, CUDA, MLOps  
-  Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
-  → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
-  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)
 
 - **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
   Competition | PyTorch, CNN, Transformers, NLP  
   Built two deep learning models (1D CNN & custom mini-transformer) to classify AI-generated vs human-written text.  
   → *Won IA Data Hack 2024; applied semantic feature extraction and multi-head attention.*  
   [🔗 GitHub Repo](https://github.com/linafarchado/IAVSAI)
+  
+- **🖼️ AI Image Generation Web Service and Discord Bot**  
+  Group Project | Flask, Hugging Face, Docker, CUDA, MLOps  
+  Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
+  → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
+  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)
 
 - **🛡️ SafeText – Toxicity & PII Detection Discord Bot**  
   Group Project | Python, NLP, scikit-learn, BERT, Discord API  
@@ -53,13 +64,6 @@
   Designed and implemented a data pipeline to clean, process, and batch-load large-scale stock market data into a TimescaleDB database.  
   → *Built an interactive Dash dashboard to visualize market trends, compare companies, and analyze data in various formats.*  
   [🔗 GitHub Repo](https://github.com/linafarchado/BigData)
-
-- **🧠 Brain MRI Generation**  
-  Research Project | PyTorch, Autoencoders, Segmentation  
-  Explored interpolation-based image generation using adversarially regularized autoencoders, inspired by Goodfellow et al.
-(2018)  
-  → *Improved anatomical consistency with segmentation benchmarks (+0.10% gray, +0.24% white matter accuracy).*  
-  [🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
 
 - **🎞️ Film Recommender System**  
   Solo Project | Scikit-learn, Pandas, SQL, IMDb  
