@@ -32,7 +32,8 @@
 
 - **🧠 Brain MRI Generation**  
   Research Project | PyTorch, Autoencoders, Segmentation  
-  Designed a generative model using adversarial autoencoders to synthesize intermediate brain MRI slices.  
+  Explored interpolation-based image generation using adversarially regularized autoencoders, inspired by Goodfellow et al.
+(2018)  
   → *Improved anatomical consistency with segmentation benchmarks (+0.10% gray, +0.24% white matter accuracy).*  
   [🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
 
