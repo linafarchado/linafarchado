@@ -24,13 +24,12 @@
 
 - **🧠 Brain MRI Generation - Epita LRE (Feb 2024 - Jan 2025)**  
   Research Project | PyTorch, Generative Models, Segmentation
-  - Explored interpolation-based image generation using adversarially regularized autoencoders, inspired by Goodfellow et al.
-(2018)
   - Designed a pipeline to generate intermediate brain MRI slices through interpolation between multiple input images,
-improving anatomical consistency.
+inspired by Goodfellow et al. (2018).
+  - *Validated anatomical plausibility and robustness of generated images using segmentation benchmarks, *achieving +0.10% and
++0.24% improvements in gray and white matter accuracy*, respectively  
 
-  → *Improved anatomical consistency with segmentation benchmarks (+0.10% gray, +0.24% white matter accuracy).*  
-[🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
+  [🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
 
 - **Full-Stack Engineering Intern – CastorDoc (Sep 2023 – Jan 2024)**  
   Contributed to product features using TypeScript, React, Node.js, and REST APIs.  
