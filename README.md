@@ -8,46 +8,67 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, SQL, NoSQL   
+**Languages:** Python, JavaScript, TypeScript, HTML/CSS, SQL, PostgreSQL, NoSQL   
 **Frameworks:** PyTorch, TensorFlow, Flask, React, ONNX.js  
 **Tools & DevOps:** Docker, GitHub Actions, CI/CD, MLOps  
-**Other:** Hugging Face, CUDA, WebGPU, Scikit-learn, Pandas, NumPy  
+**Other:** Hugging Face, CUDA, Scikit-learn, OpenCV  
+
+---
+
+## 💼 Experience
+
+- **R&D Intern – GE Healthcare (Feb 2025 – Present)**  
+  Developed deep learning algorithms for medical imaging enhancement (super-resolution).  
+  - Integrated ONNX.js & TensorFlow.js models into browser environments using WebGPU.  
+  - Benchmarked inference frameworks for clinical deployment under hardware constraints.
+
+- **Full-Stack Engineering Intern – CastorDoc (Sep 2023 – Jan 2024)**  
+  Contributed to product features using TypeScript, React, Node.js, and REST APIs.  
+  - Led development of features like Chrome extension enhancements & external links API.  
+  - Practiced Agile workflows, testing, and technical documentation across full stack.  
 
 ---
 
 ## 🚀 Projects
 
 - **🧠 Brain MRI Generation**  
-  Generative model using adversarial autoencoders to synthesize intermediate brain MRI slices.  
-  → *Improved anatomical consistency with segmentation benchmarks.*
+  Research Project | PyTorch, Autoencoders, Segmentation  
+  Designed a generative model using adversarial autoencoders to synthesize intermediate brain MRI slices.  
+  → *Improved anatomical consistency with segmentation benchmarks (+0.10% gray, +0.24% white matter accuracy).*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
 
-- **🖼️ AI Image Generation Web Service**  
-  Real-time text-to-image service with SDXL Turbo, deployed via Flask API & Docker with GPU acceleration.  
-  → *Includes an interactive Discord bot with secure token access.*
+- **🎞️ Film Recommender System**  
+  Solo Project | Scikit-learn, Pandas, SQL, IMDb  
+  Built a hybrid movie recommendation system by integrating and cleaning rating, metadata, and IMDb datasets.  
+  → *Combined SVD-based collaborative filtering with content-based similarity for accurate and scalable recommendations.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/Recommender)
 
-- **🤖 AI vs Human Text Classification (Hackathon Winner)**  
-  Custom 1D CNN and Transformer models to classify AI-generated vs human-written text.  
-  → *Winner of the IA Data Hack 2024.*
+- **🛡️ Safetext - AI Image Generation Web Service and Discord Bot**  
+  Group Project | Python, NLP, scikit-learn, BERT, Discord API  
+  Built a Discord bot for real-time detection of toxic behavior and sensitive data leaks using custom-trained NLP models.  
+  → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)
 
-- **🌐 Full-Stack @ CastorDoc**  
-  Contributed to enterprise data catalog features using React, TypeScript, Node.js, and REST APIs.  
-  → *Built production-grade features with full testing & documentation.*
+- **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
+  Competition | PyTorch, CNN, Transformers, NLP  
+  Built two deep learning models (1D CNN & custom mini-transformer) to classify AI-generated vs human-written text.  
+  → *Won IA Data Hack 2024; applied semantic feature extraction and multi-head attention.*  
 
 ---
 
 ## 💡 Interests
 
 - Generative AI (LLMs, VLMs, Autoencoders, Diffusion)
-- Medical AI & imaging enhancement
 - MLOps, model deployment, edge inference
 - Tech for social good and healthcare innovation
+- I also enjoy reading and painting in my free time
 
 ---
 
 ## 📬 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/linafarchado/)  
-📫 Contact: lina.farchado@gmail.com  
+📫 Contact: l.farchado@gmail.com  
 🌍 Portfolio (coming soon)
 
 ---
