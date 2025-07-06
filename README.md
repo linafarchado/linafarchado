@@ -46,7 +46,14 @@
   Group Project | Flask, Hugging Face, Docker, CUDA  
   Developed a real-time text-to-image web service using SDXL Turbo with GPU acceleration.  
   → *Built and deployed an interactive Discord bot connected to the API with secure token-based access.*  
-  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)  
+  [🔗 GitHub Repo](https://github.com/Misklean/mlops_project)
+
+- **🛡️ SafeText – Toxicity & PII Detection Discord Bot**  
+  Group Project | Python, NLP, scikit-learn, BERT, Discord API  
+  Built a Discord bot for real-time detection of toxic behavior and sensitive data leaks using custom-trained NLP models.  
+  → *Integrated multi-model architecture with TF-IDF and fine-tuned BERT for censorship, masking, and moderation features.*  
+  [🔗 GitHub Repo](https://github.com/linafarchado/Safetext)  
+
 
 - **🤖 AI vs Human Text Classification** *(Hackathon Winner)*  
   Competition | PyTorch, CNN, Transformers, NLP  
