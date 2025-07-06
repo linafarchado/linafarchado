@@ -10,7 +10,7 @@
 
 **Languages:** Python, JavaScript, TypeScript, SQL  
 **Frameworks:** PyTorch, TensorFlow, Flask, React, ONNX.js  
-**Tools & DevOps:** Docker, GitHub Actions, Azure, CI/CD, MLOps  
+**Tools & DevOps:** Docker, GitHub Actions, CI/CD, MLOps  
 **Other:** Hugging Face, CUDA, WebGPU, Scikit-learn, Pandas, NumPy  
 
 ---
