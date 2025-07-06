@@ -26,8 +26,8 @@
   Research Project | PyTorch, Generative Models, Segmentation
   - Designed a pipeline to generate intermediate brain MRI slices through interpolation between multiple input images,
 inspired by Goodfellow et al. (2018).
-  - *Validated anatomical plausibility and robustness of generated images using segmentation benchmarks, *achieving +0.10% and
-+0.24% improvements in gray and white matter accuracy*, respectively  
+  - Validated anatomical plausibility and robustness of generated images using segmentation benchmarks, achieving +0.10% and
++0.24% improvements in gray and white matter accuracy, respectively.  
 
   [🔗 GitHub Repo](https://github.com/linafarchado/MRI-Brain-Representation)
 
